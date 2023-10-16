@@ -27,7 +27,7 @@ A simple Notepad program built with Python and Tkinter.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/TheKaushikGoswami/100-Days-100-Programs.git
+   git clone 
    ```
 
 2. Navigate to the project directory:
@@ -55,11 +55,11 @@ A simple Notepad program built with Python and Tkinter.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/TheKaushikGoswami/100-Days-100-Programs/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE] file for details.
 
 ## Author
 
-Created by: [TheKaushikGoswami](https://github.com/TheKaushikGoswami)
+Created by:
 
 ## Acknowledgments
 
@@ -69,4 +69,4 @@ Created by: [TheKaushikGoswami](https://github.com/TheKaushikGoswami)
 
 ---
 
-Made with ❤️ in India
+Made with ❤️ in Frence
