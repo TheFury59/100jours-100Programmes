@@ -41,11 +41,11 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/TheKaushikGoswami/100-Days-100-Programs/blob/main/LICENSE). Feel free to use and modify the code as per your needs.
+This project is licensed under the [MIT License]. Feel free to use and modify the code as per your needs.
 
 ## Author
 
-Created by: [TheKaushikGoswami](https://github.com/TheKaushikGoswami)
+Created by: 
 
 ## Acknowledgements
 
@@ -54,6 +54,6 @@ Created by: [TheKaushikGoswami](https://github.com/TheKaushikGoswami)
 
 ---
 
-Made with ❤️ in India
+Made with ❤️ in Frence
 
 
