@@ -54,11 +54,11 @@ This Python script simulates the iconic Pacman game. It uses the Turtle graphics
 
 ## License
 
-This project is licensed under the MIT License. For more information, see the [LICENSE](https://github.com/TheKaushikGoswami/100-Days-100-Programs/blob/main/LICENSE) file.
+This project is licensed under the MIT License. For more information, see the [LICENSE] file.
 
 ## Author
 
-Created by: [TheKaushikGoswami](https://github.com/TheKaushikGoswami)
+Created by: 
 
 ## Acknowledgments
 
@@ -68,4 +68,4 @@ Created by: [TheKaushikGoswami](https://github.com/TheKaushikGoswami)
 
 ---
 
-Made with ❤️ in India
+Made with ❤️ Frence
